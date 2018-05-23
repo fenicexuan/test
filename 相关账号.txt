@@ -1,0 +1,19 @@
+git账户：linshuxuan
+
+asana账户：468382796@qq.com
+
+巴克云账户：https://www.buckycloud.com
+linshuxuan/xuanbing19870129
+fawdeldev/123456
+
+商家端后台：16503051542/abcd12345
+
+生产环境：https://merchant.fawdel.com
+后台：http://admin.fawdel.com
+
+开发环境：https://merchant.staging.fawdel.com
+https://admin.staging.fawdel.com
+
+
+巴克云：phpmyadmin.buckycloud.com
+账号/密码  wangtong/123456

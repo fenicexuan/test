@@ -29,4 +29,8 @@ testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
 6.18 上线
 干洗衣物，百货购物超市
 
+<<<<<<< HEAD
 BBBBBBBBBBBBBBBBBBBBBBBBBB
+=======
+AAAAAAAAAAAAAAAAAAAAAAAA
+>>>>>>> 69329cdf61d793f1d25db023774c4ef587a04b79
